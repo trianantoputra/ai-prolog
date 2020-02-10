@@ -41,4 +41,4 @@ true
 ```
 
 ## Documentation
-* LAPORAN TUGAS BESAR KECERDASAN BUATAN, [Irfan, 2018](https://github.com/trianantoputra/doppler-effect-pattern/blob/master/Generate%20Doppler%20Effect%20Pattern%20Matrix%20with%20Recursive.pdf)
+* LAPORAN TUGAS BESAR KECERDASAN BUATAN, [Irfan, 2018](https://github.com/trianantoputra/ai-prolog/blob/master/LAPORAN%20TUGAS%20BESAR%20KECERDASAN%20BUATAN.docx)
